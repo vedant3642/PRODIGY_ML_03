@@ -4,17 +4,15 @@ This project demonstrates how to use a Support Vector Machine (SVM) to classify 
 ## ✅ Features:
 Image preprocessing (resizing, grayscale, normalization)
 
-Feature extraction using raw pixels or HOG descriptors
+Feature extraction using raw pixels 
 
-SVM model training and tuning
+SVM model training 
 
 Evaluation with accuracy, confusion matrix, and visualizations
 
-## Tech Stack:
-Python
+## 💻 Tech Stack:
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-blue)
+![Python](https://img.shields.io/badge/Python-3.8%2B-yellowgreen)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-1.0%2B-orange)
+[![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square&logo=github&labelColor=blue&color=lightgrey&logoWidth=20)](LICENSE)
 
-OpenCV / PIL
-
-scikit-learn
-
-NumPy, matplotlib
